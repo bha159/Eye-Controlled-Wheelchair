@@ -1,0 +1,1 @@
+This project contains MATLAB code for moving a bluetooth controlled bot by detecting the motion of eye pupil with Bluetooth.An application called "IP Webcam" is used for converting mobile device into IP Webcam. For more info on the project a paper will be added soon.
