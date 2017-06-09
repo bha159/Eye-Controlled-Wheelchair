@@ -6,7 +6,8 @@ Functions used in this project are used with MATLAB 2016a,so the project will wo
 
 ### Prerequisites
 MATLAB 2016a(or later versions)
-Bot having a bluetooth module
+
+Bot having a bluetooth module(Like HC-05) and two dc motors [Arduino code for bot] (https://gist.github.com/ratcoder/89c020a11d56afc3a7b371548ea7fee0).
 
 ### Installing
 Simply download the zip file of the project and extract it in MATLAB directory. For using camera download "IP Webcam" from [playstore](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en).
