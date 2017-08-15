@@ -1,4 +1,4 @@
-# Project Title
+# Eye-Controlled-Wheelchair
 This project contains MATLAB code for moving a bluetooth controlled bot by detecting the motion of eye pupil with Bluetooth
 
 ## Getting Started
